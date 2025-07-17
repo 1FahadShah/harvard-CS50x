@@ -98,6 +98,7 @@ And you whisper: *“This time, I got you bro.”*
 - The whole **vibe** adapts based on how the bear feels
 
 
+━━━━━━━━━━━━━━━━
 
 ## ✨ Built With
 
@@ -105,7 +106,6 @@ And you whisper: *“This time, I got you bro.”*
 - 🎓 CS50 Week 0
 - 💛 Empathy, storytelling, and game-feel logic
 
-━━━━━━━━━━━━━━━━
 
 ## 📂 Try It Out
 
@@ -118,7 +118,7 @@ And you whisper: *“This time, I got you bro.”*
 Built with heart and intention by 𝟭𝗙𝗮𝗵𝗮𝗱𝗦𝗵𝗮𝗵 — part of a bigger journey to turn clarity into code,
 and every small project into proof of systems-first learning.
 
-━━━━━━━━━━━━━━━━
+
 
 ## 📜 License
 

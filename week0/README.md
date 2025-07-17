@@ -112,7 +112,7 @@ And you whisper: *“This time, I got you bro.”*
 🔗 [Play the Game on Scratch](https://scratch.mit.edu/projects/1190683024/)  
 🔁 Remix it. Make it yours. Or just feed the bear one more time.
 
-━━━━━━━━━━━━━━━━
+
 
 ## 🙌 Author — 𝟭𝗙𝗮𝗵𝗮𝗱𝗦𝗵𝗮𝗵
 Built with heart and intention by 𝟭𝗙𝗮𝗵𝗮𝗱𝗦𝗵𝗮𝗵 — part of a bigger journey to turn clarity into code,

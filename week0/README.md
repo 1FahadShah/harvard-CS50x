@@ -6,7 +6,7 @@ A heart-led little game that feels like taking care of a living thing.
 Built for [CS50 Week 0 - Scratch Project](https://cs50.harvard.edu), this is not just a game — it’s an emotional experience.  
 You’re not chasing scores. You’re **learning to care.**
 
-━━━━━━━━━━━━━━━━
+
 
 ## 🎮 What’s It About?
 
@@ -17,7 +17,7 @@ Not too much. Not too little. Just enough to make it happy and full.
 
 Sounds simple? It’s not.
 
-━━━━━━━━━━━━━━━━
+
 
 ## 🍏🍔☠️ Food Drama
 
@@ -33,7 +33,7 @@ Every bite changes how the bear **feels**, not just how full it is.
 A tiny **emotion bear** appears in the corner showing its mood — happy, angry, or sad.  
 Even the **background** shifts with the emotion.
 
-━━━━━━━━━━━━━━━━
+
 
 ## 🧠 The Pressure Is REAL
 
@@ -46,7 +46,7 @@ You can't just feed anything anytime.
 This is a balance game —  
 Observe, understand, and **respond with care**.
 
-━━━━━━━━━━━━━━━━
+
 
 ## 🐻💬 Bear Speaks
 
@@ -64,7 +64,7 @@ And if you *nail it* —
 
 That line hits harder than most games.
 
-━━━━━━━━━━━━━━━━
+
 
 ## 💀 Win or Die
 
@@ -78,7 +78,7 @@ You either:
 
 Either way — you *feel* it.
 
-━━━━━━━━━━━━━━━━
+
 
 ## 🔁 Play Again?
 
@@ -88,7 +88,7 @@ After win or loss, you see a **Retry** button.
 Click it, the bear returns.  
 And you whisper: *“This time, I got you bro.”*
 
-━━━━━━━━━━━━━━━━
+
 
 ## 🎵 Music + Mood
 
@@ -97,7 +97,7 @@ And you whisper: *“This time, I got you bro.”*
 - ✨ Cheerful chime on win
 - The whole **vibe** adapts based on how the bear feels
 
-━━━━━━━━━━━━━━━━
+
 
 ## ✨ Built With
 
